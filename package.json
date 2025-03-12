@@ -16,15 +16,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MultiverseLearningProducts/greeno-flowers.git"
+    "url": "git+https://github.com/deekshitha-77/Greeno-Greeno"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MultiverseLearningProducts/greeno-flowers/issues"
+    "url": "https://github.com/deekshitha-77/Greeno-Greeno"
   },
-  "homepage": "https://github.com/MultiverseLearningProducts/greeno-flowers#readme",
+  "homepage": "https://github.com/deekshitha-77/Greeno-Greeno#readme",
   "dependencies": {
     "chalk": "5.0.1",
     "express": "4.18.1",
