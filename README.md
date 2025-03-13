@@ -1,4 +1,4 @@
-**DevOps Assignment 1:** **CI/CD Pipeline with GitHub Actions and SonarQube**
+**DevOps Assignment 1:** **Automating CI/CD Pipeline with GitHub Actions and SonarQube**
 
 **Project Overview**
 This project demonstrates a fully automated CI/CD pipeline for a full-stack web application using GitHub Actions for automation, SonarQube for code quality analysis, and Railway for deployment.
